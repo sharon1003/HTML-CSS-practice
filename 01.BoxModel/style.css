@@ -1,0 +1,33 @@
+/* div {
+    height: 300px;
+    width: 400px;
+    background-color: #ee3e80;
+}
+
+p {
+    height: 70%;
+    width: 70%;
+    background-color: #e1ddda;
+} */
+
+/*  */
+th {
+    border-bottom: 1px solid #0088dd;
+    text-align: left;
+    color:#0088dd;
+}
+
+/* td {
+    min-width: 150px;
+    min-height: 200px;
+    vertical-align: top;
+    line-height: 1.4em;
+} */
+
+td.description {
+    min-width: 450px;
+    min-height: 650px;
+    text-align: left;
+    padding: 5px;
+    margin: 0px;
+}
