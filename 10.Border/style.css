@@ -1,0 +1,72 @@
+.border p {
+    color: black;
+    width: 200px;
+    border-style: solid;
+}
+
+.border .one {
+    border-width: 2px;
+}
+
+.border .two {
+    border-width: thick;
+}
+
+.border .three {
+    border-width: 1px 4px 12px 4px;
+}
+
+.border-style {
+    padding-top: 20px;
+}
+
+.border-style p {
+    color: black;
+    width: 200px;
+    border-style: solid;
+}
+
+.border-style .four {
+    border-style: solid;
+}
+
+.border-style .five {
+    border-style: dotted;
+}
+
+.border-style .six {
+    border-style: dashed;
+}
+
+.border-style .seven {
+    border-style: double;
+}
+
+.border-style .eight {
+    border-style: groove;
+}
+
+.border-style .nine {
+    border-style: outset;
+}
+
+.border-style .ten {
+    border-style: ridge;
+}
+
+.border-color {
+    padding-top: 20px;
+}
+.border-color p {
+    color: black;
+    border-style: solid;
+    width: 200px;
+}
+
+.border-color .color-one {
+    border-color: #0088dd;
+}
+
+.border-color .color-two {
+    border-color: red blue green yellow;
+}

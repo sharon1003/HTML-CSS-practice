@@ -1,0 +1,23 @@
+body {
+    width: 200px;
+}
+
+h2 {
+    font-size: 30px;
+    color: #0088dd;
+    border-bottom: 1px solid #0088dd;
+}
+
+p {
+    min-height: 30px;
+    max-height: 100px;
+}
+
+p.one {
+    overflow: hidden;
+}
+
+p.two {
+    overflow: scroll;
+}   
+

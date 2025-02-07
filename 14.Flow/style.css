@@ -1,0 +1,33 @@
+body {
+    width: 750px;
+    color: #665544;
+}
+/* h1 {
+    position: absolute;
+    top: 0px;
+    left: 500px;
+    width: 250px;
+    background-color: #efefef;
+    padding: 10px;
+} */
+
+h1 {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    padding: 10px;
+    margin: 0px;
+    width: 100%;
+    background-color: #efefef;
+}
+
+p {
+    margin-top: 100px;
+    width: 450px;
+}
+
+p.relative-example {
+    position: relative;
+    top: 10px;
+    left: 100px;
+}

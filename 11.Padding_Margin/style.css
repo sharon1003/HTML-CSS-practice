@@ -1,0 +1,13 @@
+p {
+    width: 275px;
+    border: 2px solid #0088dd;
+}
+
+p.example {
+    padding: 10px;
+}
+
+p.margin-example {
+    margin: 20px;
+    padding: 10px;
+}
