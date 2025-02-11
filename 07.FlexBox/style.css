@@ -1,0 +1,29 @@
+div.container {
+    border: 3px solid black; 
+    display: flex;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+}
+
+.box1 {
+    background-color: aqua;
+}
+
+.box2 {
+    background-color: bisque;
+}
+
+.box3 {
+    background-color: chocolate;
+}
+
+.box4 {
+    background-color: wheat;
+}
+
+.box5 {
+    background-color: aquamarine;
+}
